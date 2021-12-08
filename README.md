@@ -1,1 +1,1 @@
-# read-covid-19-vaccine-certificate
+# Sample reading of the covid certificate 
